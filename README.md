@@ -48,8 +48,7 @@ All machines run as virtual machines in **VMware Workstation** on the same virtu
 
 I created an Ubuntu VM and installed Wazuh using the official `wazuh-install.sh` installation assistant, which deploys the manager, indexer, and dashboard on a single node.
 
-![Wazuh server VM](screenshots/05-wazuh-server-vm.png)
-
+![Wazuh server VM in VMware](screenshots/05-wazuh-server-vm.png)
 ### 2. Agent deployment
 
 I enrolled two endpoints using the dashboard's **Deploy new agent** workflow: a Windows 10 machine and an Ubuntu 24.04 machine. Both agents report as **Active** on node `node01`, in the `default` group.
