@@ -67,7 +67,7 @@ _(Add the setting you changed to enable archiving, e.g. `logall` / `logall_json`
 
 ![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/7ad64b94a4b0bd0f7775c4cdcb27537a343f469b/my%20wazuh%20linux%20aleart%20dashboad.png)
 
-![Windows events in Discover](screenshots/04-windows-events.png)
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/73ad2bc40a76ca0c284318dc8e1d4a5179d21da2/my%20wazuh%20windows%20alert%20dashboard.png)
 
 ### 5. Dashboard overview
 
