@@ -48,12 +48,12 @@ All machines run as virtual machines in **VMware Workstation** on the same virtu
 
 I created an Ubuntu VM and installed Wazuh using the official `wazuh-install.sh` installation assistant, which deploys the manager, indexer, and dashboard on a single node.
 ![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/b235cd4bc88d8852f9ad1b3689329ed86e9ae6c0/my%20virtual%20machine.png)
+
 ### 2. Agent deployment
 
 I enrolled two endpoints using the dashboard's **Deploy new agent** workflow: a Windows 10 machine and an Ubuntu 24.04 machine. Both agents report as **Active** on node `node01`, in the `default` group.
 
-![Agents overview](screenshots/01-agents-overview.png)
-
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/9cb6051f63636af18b46411941d35a2d113af417/my%20wazuh%20agent%20dashboard.png)
 ### 3. Enabling full log archiving
 
 To see all raw events (not only those that trigger alerts), I used the `wazuh-archives*` index in the dashboard's Discover view. This let me inspect the full event stream from each endpoint.
