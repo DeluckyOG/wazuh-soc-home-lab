@@ -65,7 +65,8 @@ _(Add the setting you changed to enable archiving, e.g. `logall` / `logall_json`
 - **Linux agent:** about 2,900 events in 24 hours, including Security Configuration Assessment (SCA) checks.
 - **Windows agent:** about 2,300 events in 24 hours, including Windows event log data such as process activity (image path, process ID, user, GUIDs).
 
-![Linux events in Discover](screenshots/03-linux-events.png)
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/7ad64b94a4b0bd0f7775c4cdcb27537a343f469b/my%20wazuh%20linux%20aleart%20dashboad.png)
+
 ![Windows events in Discover](screenshots/04-windows-events.png)
 
 ### 5. Dashboard overview
