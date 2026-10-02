@@ -74,8 +74,7 @@ _(Add the setting you changed to enable archiving, e.g. `logall` / `logall_json`
 The Wazuh overview page summarizes agent health and alert severity, with modules for Configuration Assessment, Malware Detection, File Integrity Monitoring, Threat Hunting, Vulnerability Detection, and MITRE ATT&CK.
 
 In the last 24 hours the lab generated **0 critical, 0 high, 1 medium, and 31 low** severity alerts.
-
-![Dashboard overview](screenshots/02-dashboard-overview.png)
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/e38e26e8dcdc460f8be56c441246601db96f6a4b/my%20wazuh%20dash%20board.png)
 
 ## Detection Tests
 
