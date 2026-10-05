@@ -256,6 +256,7 @@ net user Student1 /add
 net localgroup administrators Student1 /add
 net localgroup administrators
 net user Student1 /delete
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/08174da8339fa682d7b67f3a76d56c3037e76b66/powershell.png)
 ```
 
 The activity generated Windows Security telemetry that could then be investigated through Wazuh.
@@ -343,7 +344,7 @@ Added to Administrators
 4726
 Account Deleted
 ```
-![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/08174da8339fa682d7b67f3a76d56c3037e76b66/powershell.png)
+
 ---
 
 # 🧩 Event Correlation
