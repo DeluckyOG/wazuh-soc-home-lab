@@ -343,7 +343,7 @@ Added to Administrators
 4726
 Account Deleted
 ```
-
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/08174da8339fa682d7b67f3a76d56c3037e76b66/powershell.png)
 ---
 
 # 🧩 Event Correlation
