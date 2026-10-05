@@ -309,6 +309,8 @@ I correlated the member SID with the SID recorded during the `4720` account-crea
 
 This demonstrates an important investigation technique:
 
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/7bf5bd903e81e7557af23a2ab4b3248a6fd3e4f3/windows%20even%20id%20add%20to%20locall%20group.png)
+
 > **When an event does not provide a useful username, related events and unique identifiers such as SIDs can be used to establish context.**
 
 ---
