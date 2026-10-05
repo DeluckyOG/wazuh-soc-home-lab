@@ -327,6 +327,8 @@ data.win.system.eventID: 4726
 
 The event showed that the `Student1` account was deleted.
 
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/77350c90c159a915afc05f836d09226790908662/window%20event%20id%20deleted.png)
+
 The event identified:
 
 * **Target:** `Student1`
