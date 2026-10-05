@@ -281,8 +281,9 @@ The event identified:
 * **Logon ID:** `0x164095`
 * **Target SID:** SID ending in `-1004`
 
+  ![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/6c6f9c4e37c2a773518f19d4535ed764baa40393/event%20id%20user%20created.png)
+
 This established the first stage of the activity.
-![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/6c6f9c4e37c2a773518f19d4535ed764baa40393/event%20id%20user%20created.png)
 ---
 
 ## 🔍 Step 2 — Account Added to Administrators
