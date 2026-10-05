@@ -258,8 +258,7 @@ net localgroup administrators
 net user Student1 /delete
 ```
 ![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/08174da8339fa682d7b67f3a76d56c3037e76b66/powershell.png)
-
-The activity generated Windows Security telemetry that could then be investigated through Wazuh.
+              The activity generated Windows Security telemetry that could then be investigated through Wazuh.
 
 ---
 
@@ -282,8 +281,7 @@ The event identified:
 * **Target SID:** SID ending in `-1004`
 
   ![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/6c6f9c4e37c2a773518f19d4535ed764baa40393/event%20id%20user%20created.png)
-
-This established the first stage of the activity.
+          This established the first stage of the activity.
 ---
 
 ## 🔍 Step 2 — Account Added to Administrators
