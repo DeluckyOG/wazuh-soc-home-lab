@@ -272,7 +272,7 @@ The activity generated Windows Security telemetry that could then be investigate
 ```text
 data.win.system.eventID: 4720
 ```
-
+![image alt](https://github.com/DeluckyOG/wazuh-soc-home-lab/blob/6c6f9c4e37c2a773518f19d4535ed764baa40393/event%20id%20user%20created.png)
 The event recorded the creation of the `Student1` account.
 
 The event identified:
