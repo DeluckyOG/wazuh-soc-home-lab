@@ -690,6 +690,6 @@ This project will continue to evolve as I build additional detections and invest
 
 **Okechukwu Goodluck Chinemerem**
 
-**Cybersecurity Student | Aspiring SOC Analyst | Blue Team Enthusiast**
+**Cybersecurity Analyst | Aspiring SOC Analyst | Blue Team Enthusiast**
 
 This project represents my ongoing development of practical cybersecurity skills through hands-on security monitoring, investigation, detection engineering, and continuous learning.
